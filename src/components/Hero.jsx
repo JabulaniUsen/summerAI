@@ -23,7 +23,7 @@ const Hero = () => {
   return (
     <header className="w-full flex justify-center items-center flex-col">
       <nav className="flex justify-between items-center w-full mb-10">
-        <img src={logo} alt="summer_ai_logo" className=" object-contain mt-3" />
+        <img src={logo} alt="summer_ai_logo" className="lg:w-10 w-9 object-contain mt-3" />
         <div className="flex items-center gap-6">
           <button
             type="button"
