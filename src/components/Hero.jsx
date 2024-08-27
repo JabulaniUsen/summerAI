@@ -37,7 +37,7 @@ const Hero = () => {
             className="black_btn"
             onClick={() => window.open('https://usen-obong.vercel.app/')}
           >
-            Nothing here. Move along
+            Don't click!
           </button>
         </div>
       </nav>
